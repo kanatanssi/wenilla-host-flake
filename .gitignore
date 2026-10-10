@@ -1,0 +1,4 @@
+result
+result-*
+# The test VM's disk image, written to the directory it is run from.
+*.qcow2
